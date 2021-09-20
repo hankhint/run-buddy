@@ -12,3 +12,5 @@ https://hankhint.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [hankhint]
+
+# Run Buddy Inc.
